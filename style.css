@@ -12,6 +12,7 @@ h1,h2,h3 {
   font-family: "Playfair Display", Times, serif;
 }
 
+/* Set the padding for articles */
 article {
   padding: 50px 0;
 }
@@ -42,34 +43,36 @@ hr {
 }
 
 /* Add your solution below */
-
+/* Set the background color */
 body {
   background-color: #eae2b7;  
 }
-
+/* Aligning text and styling font for h1, h2, h3 */
 h1, h2, h3 {
   text-align: center;
   font-weight: bolder;
 }
 
+/* Set the nav links in the center */
 nav {
   text-align: center;
 }
 
+/* Styling the nav links so that they have some spaces between them */
 nav ul li {
   
   list-style: none;
   padding: 16px;
   display: inline-block;
 }
-
+/* Styling the image as per requirements */
 .image-circle {
   border-radius: 50%;
   border-color: #003049;
   border-width: 2px;
   border-style: solid;
 }
-
+/* Styling links per requirements */
 a:link {
   color: #d62828;
 }
@@ -83,7 +86,7 @@ a:visited {
 a:hover {
   color: #f77f00;
 }
-
+/* Set the footer to be centered */
 footer {
   text-align: center;
 }
